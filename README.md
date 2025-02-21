@@ -1,2 +1,2 @@
-# Practice
+# practice
 A place for practicing
